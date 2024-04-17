@@ -133,9 +133,6 @@ open up you local host and port
 
 
 
-# AZURE-CICD-Deployment-with-Github-Actions
-
-
 
 
 ## Run from terminal:
